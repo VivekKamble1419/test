@@ -1,0 +1,14 @@
+# 1  . git init
+# 2  . git add .
+# 3  . git status // green
+# 4  . git commit -m "first commit"
+# 5  . git config --global user.email "you@example.com"
+# 6  . git config --global user.name "Your Name"
+# 7  . git remote add origin https://github.com/VivekKamble1419/test.git // add remote origin
+# 8  . git push -u origin master // to push git 
+# 9  . 
+# 10  . 
+
+//to check the email and user id is add or no 
+git config user.name
+git config user.email
